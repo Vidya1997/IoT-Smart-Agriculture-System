@@ -1,0 +1,27 @@
+project implementation:
+In the agriculture field, various sensors like temperature
+sensor, moisture sensor, Ultrasonic sensors will be deployed to monitor different parameters that will help in good growth of the crops. 
+The information recieved from these
+sensors are collected and analyzed by the Microcontroller for further processing. The parameters are projected within the web
+page and therefore the farmers can get the detailed description of the outcome values.
+
+social relevance
+The project aims at making agriculture smart using automation and IOT technologies.
+The system will contain many modules at various geographical position and each one of these
+modules will send the information to the present platform, which will give some idea to specialise in
+the environmental factor, with the help of these values we can make necessary changes for good crop growth and yield.
+The foremost function of the project is to watch the crop growth
+using digital means. This can provide the accurate values of assorted parameters upon which the
+expansion depends. Besides this, it'll help the farmer to observe quite one/many agricultural land at
+the identical time remotely and operate the senors using a digital device. 
+Since most of the monitoring is completed remotely, it will help the farmer to gain
+information which is crucial for the business during his/her spare time.
+
+outcome of project
+The highlighting features of this paper include smart irrigation that is 
+Farmers can visualize production levels, soil moisture, sunlight intensity and more in real time and remotely to accelerate decision making process.
+. Secondly temperature maintenance, humidity
+maintenance and other environmental parameters and finally the recommendation
+to farmers for smart agriculture. The outcome of this project will surely help the 
+farmers to determine what crops to be grown next and since it's all automated, the
+farmers need not waste a lot of time monitoring the fields frequently.
